@@ -14,11 +14,9 @@ exports.config = {
       platformName: "Android",
       deviceName: "Galaxy S9",
       platformVersion: "10",
-      app: "YOUR_APP_URL", //Set your APP URL
-
-      //ADD GEOLOCATION BASED ON COUNTRY CODE
-      geoLocation: "fr"  
-
+      
+      //Enter the Custom_ID here that was used to upload your application
+      app: 'ENTER_CUSTOM_ID_HERE',
     },
   ],
 
